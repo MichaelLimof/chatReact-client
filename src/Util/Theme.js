@@ -23,7 +23,8 @@ export default
           textAlign: 'center',
         },
         image: {
-          margin: '20px auto 20px auto'
+          margin: '20px auto 20px auto',
+         
         },
       
         spreadThis: {
